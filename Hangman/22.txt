@@ -1,0 +1,14 @@
+Brain,u need to think
+Spinal cord,tuy song
+Throat,going deep
+Windpipe,air go before ling
+Esophagus,thuc quan
+Muscle,go gym
+Lung,dont smoke
+Heart,center of body
+Liver,Gan
+Stomach,da day
+Intestines,ruot
+Vein,tinh mach
+Artery,dong mach
+Pancreas,tuy

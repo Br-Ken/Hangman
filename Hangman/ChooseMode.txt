@@ -1,0 +1,4 @@
+Choose mode
+1, Easy <press 1>
+2, Medium <press 2>
+3, Hard <press 3>

@@ -1,0 +1,23 @@
+Desk
+Chair
+Book
+Notebook
+Pencil case,hop but
+Backpack,dang sau hoc sinh
+Scissors,cat chim bay h
+Compass,cach mot thang noob ve duong tron
+Pencil,but chi
+Coloured pencil,lam mau
+Pencil sharpener,got
+Calculator,1+1=2
+Highlighter,lam mau
+Rubber,dan
+Paint,ve mau
+Paint brush,long ve
+Ruler,20cm
+Glue,dan nuoc
+Paper,A4
+File holder,kep file
+Map,cong cu tim duong vo dung
+Clock,timing
+Blackboard,bang

@@ -1,0 +1,188 @@
+# depslib dependency file v1.0
+1620410673 source:d:\uet lessons\codeblocks\new folder\hangman\main.cpp
+
+1620554044 source:d:\uet lessons\codeblocks\new folder\hangman\draw.cpp
+	<iostream>
+	<cstdlib>
+	<vector>
+	<thread>
+	<fstream>
+	<algorithm>
+	<iomanip>
+	<windows.h>
+
+1620567938 source:d:\uet lessons\codeblocks\new folder\hangman\hangman3.0.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<fstream>
+	<vector>
+	<algorithm>
+	<thread>
+	<chrono>
+	<windows.h>
+	"draw.h"
+	"utility.h"
+
+1620453377 d:\uet lessons\codeblocks\new folder\hangman\draw.h
+	<string>
+
+1620484258 d:\uet lessons\codeblocks\new folder\hangman\utility.h
+	<string>
+	<vector>
+
+1620555992 source:d:\uet lessons\codeblocks\new folder\hangman\utility.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+	<windows.h>
+
+1620573851 source:d:\uet lessons\codeblocks\new folder\20020283_nguyen_duc_cuong\draw.cpp
+	<iostream>
+	<cstdlib>
+	<vector>
+	<thread>
+	<fstream>
+	<algorithm>
+	<iomanip>
+	<windows.h>
+
+1620574360 source:d:\uet lessons\codeblocks\new folder\20020283_nguyen_duc_cuong\hangman3.0.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<fstream>
+	<vector>
+	<algorithm>
+	<thread>
+	<chrono>
+	<windows.h>
+	"draw.h"
+	"utility.h"
+
+1620573755 d:\uet lessons\codeblocks\new folder\20020283_nguyen_duc_cuong\draw.h
+	<string>
+
+1620484258 d:\uet lessons\codeblocks\new folder\20020283_nguyen_duc_cuong\utility.h
+	<string>
+	<vector>
+
+1620574233 source:d:\uet lessons\codeblocks\new folder\20020283_nguyen_duc_cuong\utility.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+	<windows.h>
+
+1620614166 source:d:\uet lessons\codeblocks\game hang man\20020283_nguyen_duc_cuong\draw.cpp
+	<iostream>
+	<cstdlib>
+	<vector>
+	<thread>
+	<fstream>
+	<algorithm>
+	<iomanip>
+	<windows.h>
+
+1620614242 source:d:\uet lessons\codeblocks\game hang man\20020283_nguyen_duc_cuong\hangman3.0.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<fstream>
+	<vector>
+	<algorithm>
+	<thread>
+	<chrono>
+	<windows.h>
+	"draw.h"
+	"utility.h"
+
+1620612602 d:\uet lessons\codeblocks\game hang man\20020283_nguyen_duc_cuong\draw.h
+	<string>
+
+1620484258 d:\uet lessons\codeblocks\game hang man\20020283_nguyen_duc_cuong\utility.h
+	<string>
+	<vector>
+
+1620574233 source:d:\uet lessons\codeblocks\game hang man\20020283_nguyen_duc_cuong\utility.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+	<windows.h>
+
+1664274486 source:d:\uet lessons\c++\game hang man\20020283_nguyen_duc_cuong\hangman3.0.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<fstream>
+	<vector>
+	<algorithm>
+	<thread>
+	<chrono>
+	<windows.h>
+	"draw.h"
+	"utility.h"
+
+1620612602 d:\uet lessons\c++\game hang man\20020283_nguyen_duc_cuong\draw.h
+	<string>
+
+1620484258 d:\uet lessons\c++\game hang man\20020283_nguyen_duc_cuong\utility.h
+	<string>
+	<vector>
+
+1620574233 source:d:\uet lessons\c++\game hang man\20020283_nguyen_duc_cuong\utility.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+	<windows.h>
+
+1620614697 source:d:\uet lessons\c++\game hang man\20020283_nguyen_duc_cuong\draw.cpp
+	<iostream>
+	<cstdlib>
+	<vector>
+	<thread>
+	<fstream>
+	<algorithm>
+	<iomanip>
+	<windows.h>
+
+1620614697 source:d:\uet_lessons\c++\game hang man\20020283_nguyen_duc_cuong\draw.cpp
+	<iostream>
+	<cstdlib>
+	<vector>
+	<thread>
+	<fstream>
+	<algorithm>
+	<iomanip>
+	<windows.h>
+
+1664274486 source:d:\uet_lessons\c++\game hang man\20020283_nguyen_duc_cuong\hangman3.0.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<fstream>
+	<vector>
+	<algorithm>
+	<thread>
+	<chrono>
+	<windows.h>
+	"draw.h"
+	"utility.h"
+
+1620612602 d:\uet_lessons\c++\game hang man\20020283_nguyen_duc_cuong\draw.h
+	<string>
+
+1620484258 d:\uet_lessons\c++\game hang man\20020283_nguyen_duc_cuong\utility.h
+	<string>
+	<vector>
+
+1620574233 source:d:\uet_lessons\c++\game hang man\20020283_nguyen_duc_cuong\utility.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+	<windows.h>
+

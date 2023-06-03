@@ -1,0 +1,35 @@
+Chord,Day cung                                           
+Circumference,Chu vi
+Collinear,Cung đuong thang                       
+Coplanar,Cung mot mat phang
+Concentric,Đong tam                                 
+Cone,Hinh non
+Congruent,Bang nhau                                                                        
+Decagon,Thap giac
+Diameter,Đuong kinh                                   
+Fraction,Phan so                                          
+Heptagon,That giac
+Hexagon,Lac giac                                         
+Inscribed angle,Goc noi tiep
+Isosceles triangle,Tam giac can                   
+difference,hieu
+cyclic,noi tiep                                       
+circumscribed,ngoai tiep                              
+median,trung tuyen                                          
+inequality,bat đang thuc                               
+Similar triangles,tam giac đong dang.           
+prism,hinh lang tru
+abacus,Ban tinh                                           
+abridge,Rut gon
+abscissa,Hoanh đo                                                                     
+abut,Chung bien                      
+accuracy,Đo chinh xac                                   
+addend: So hang (của tong)                          
+algebraic,Bo cong đai so                           
+amplitude,Bo cong bien đo
+addition,Phep cong                                       
+additive,Cong tinh
+additivity,tinh chat                     
+adinfinitum,Vo cung
+adjoin,Ke, noi                          
+adjoint,Lien hop

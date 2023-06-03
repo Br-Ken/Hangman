@@ -1,0 +1,34 @@
+Ego,cai toi
+Encoding,ma hoa
+Downshifting,thay doi lifestyle 
+Grapevine,rumor
+Egocentrism,thuyet tu de cao minh
+Electroencephalogram,dien do nao
+Llusion,choi do`
+Inferences,suy luan
+Insanity,dien
+Insomnia,mat ngu
+Instinct,ban nang
+Internalization,tiep thu
+Intimacy,than mat
+Judgment,phan doan
+Altruism,vi tha
+Amnesia,chung mat tri nho
+Implicit,vo thuc
+Hallucinatio,mot loai ao giac
+Hypnosis,thoi mien
+Ingratiation,su lay long
+Kinesthetic,van dong
+Autism,tu ky
+Gestalt,cau truc
+Cerebellum,tieu nao
+astrophy,thoai hoa
+Cochlea,oc tai
+Accommodation,su đieu tiet
+Acquisition,su tiep nhan
+Addiction,nghien
+Brainstorm,đong nao
+Burnout,met lu
+Aggression,thai đo cong kich
+Agoraphobiachung so khoang rong
+Anxiety,su lo au

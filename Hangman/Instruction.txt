@@ -1,0 +1,15 @@
+		    	      HANGMAN
+================================================================================
+			HOW TO PLAY HANGMAN
+================================================================================
+
+You have to guess word which was given by computer with limit guesses.
+If you find the word with less or equal the quess-limit, you win.Else you lose
+You can guess leter by leter or 1 word if you believe in yourself.
+You have 120 seconds to save the man.
+
+================================================================================
+
+		      Goodluck and have fun!!!
+
+================================================================================
